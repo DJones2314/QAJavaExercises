@@ -35,10 +35,7 @@ public class Main {
 				System.out.println("Iterating through gives me " + testArray[i]);
 			}
 			
-			int itterationArray[] = {};
-			for(int i = 0; i < 7; i++) {
-				
-			}
+			
 			
 			/*int[] newArray = new int[10];
 			for(int i = 0; i < 7; i++) {
